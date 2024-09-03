@@ -1,0 +1,7 @@
+../Core/Src/fsm.c:35:6:HAL_TIM_PeriodElapsedCallback	32	static
+../Core/Src/fsm.c:76:6:HAL_GPIO_EXTI_Callback	0	static,ignoring_inline_asm
+../Core/Src/fsm.c:87:6:HAL_WWDG_EarlyWakeupCallback	40	static
+../Core/Src/fsm.c:101:6:toIdle	8	static
+../Core/Src/fsm.c:124:6:toArming	8	static
+../Core/Src/fsm.c:150:6:toArmed	24	static
+../Core/Src/fsm.c:183:6:toError	40	static

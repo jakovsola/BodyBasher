@@ -1,0 +1,14 @@
+../Core/Src/terminal.c:437:9:printPrompt	16	static
+../Core/Src/terminal.c:168:9:TermHelp	8	static
+../Core/Src/terminal.c:236:9:TermDisarm	24	static
+../Core/Src/terminal.c:249:9:TermStatus	168	static
+../Core/Src/terminal.c:449:9:initTerminal	24	static
+../Core/Src/terminal.c:465:9:printInvalid	48	static
+../Core/Src/terminal.c:477:9:printInvalidParameterValue	48	static
+../Core/Src/terminal.c:490:9:findParameter	40	static
+../Core/Src/terminal.c:179:9:TermArm	56	static
+../Core/Src/terminal.c:323:9:TermError	304	static
+../Core/Src/terminal.c:368:9:TermBB	112	static
+../Core/Src/terminal.c:108:6:analyseMessage	96	static
+../Core/Src/terminal.c:67:6:checkTerminal	32	static
+../Core/Src/terminal.c:534:6:clearOutputGenerate	24	static

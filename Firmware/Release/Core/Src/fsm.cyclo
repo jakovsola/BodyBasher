@@ -1,0 +1,7 @@
+../Core/Src/fsm.c:35:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/fsm.c:76:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/fsm.c:87:6:HAL_WWDG_EarlyWakeupCallback	1
+../Core/Src/fsm.c:101:6:toIdle	1
+../Core/Src/fsm.c:124:6:toArming	1
+../Core/Src/fsm.c:150:6:toArmed	4
+../Core/Src/fsm.c:183:6:toError	1

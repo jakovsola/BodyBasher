@@ -1,0 +1,14 @@
+../Core/Src/terminal.c:437:9:printPrompt	1
+../Core/Src/terminal.c:168:9:TermHelp	1
+../Core/Src/terminal.c:236:9:TermDisarm	1
+../Core/Src/terminal.c:249:9:TermStatus	5
+../Core/Src/terminal.c:449:9:initTerminal	2
+../Core/Src/terminal.c:465:9:printInvalid	1
+../Core/Src/terminal.c:477:9:printInvalidParameterValue	1
+../Core/Src/terminal.c:490:9:findParameter	8
+../Core/Src/terminal.c:179:9:TermArm	7
+../Core/Src/terminal.c:323:9:TermError	5
+../Core/Src/terminal.c:368:9:TermBB	8
+../Core/Src/terminal.c:108:6:analyseMessage	9
+../Core/Src/terminal.c:67:6:checkTerminal	4
+../Core/Src/terminal.c:534:6:clearOutputGenerate	1
